@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\bin\Debug\KiemTraGiuaKi.exe.config
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\bin\Debug\KiemTraGiuaKi.exe
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\bin\Debug\KiemTraGiuaKi.pdb
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.Form1.resources
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.Properties.Resources.resources
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.exe
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\obj\Debug\KiemTraGiuaKi.pdb
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\bin\Debug\data\dulieu.data
+C:\Users\USER\source\repos\KiemTraGiuaKi\KiemTraGiuaKi\bin\Debug\data\tennhom.data
